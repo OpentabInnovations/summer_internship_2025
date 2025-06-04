@@ -1,0 +1,8 @@
+.hero-section{
+    height: 94svh;
+    width: 100%;
+    /* background-color: aqua; */
+    background-image: url("../assets/diggity-marketing-SB0WARG16HI-unsplash.jpg");
+    background-size: cover;
+
+}

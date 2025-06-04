@@ -1,12 +1,13 @@
 import "./App.css";
-import Home from "./components/Home";
-import Aboutuss from "./components/Aboutuss";
+import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
+import Hero from "./components/Hero";
 function App() {
   return (
     <>
-      <h1>this is the root component</h1>
-      <Home />
-      <Aboutuss/>
+      <NavBar />
+      <Hero />
+      <Footer />
     </>
   );
 }

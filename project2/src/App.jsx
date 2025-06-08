@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import NumberGame from "./components/NumerGame";
 import GreetingCard from "./components/GreetingCard";
+import Copywrting from "./components/Copywrting";
 function App() {
   // const name_of_the_user = "murali";
   // const age_of_the_user = 15;
@@ -24,6 +25,7 @@ function App() {
       <NavBar />
       {/* <GreetingCard users = {users}/> */}
       <NumberGame />
+      <Copywrting />
       <Footer />
     </>
   );
